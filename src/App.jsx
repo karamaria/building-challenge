@@ -4,7 +4,7 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import BonusPage from "./pages/BonusPage"; 
 import "./App.css";
-
+ 
 function App() {
   return (
     <Router>
